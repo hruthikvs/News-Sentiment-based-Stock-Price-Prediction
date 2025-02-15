@@ -48,21 +48,6 @@ git clone https://github.com/yourusername/maruti-stock-sentiment.git
 - Accuracy: 54.28%
 - Detailed metrics available in confusion matrix and classification report
 
-## Project Structure
-
-```
-├── data/
-│   ├── MARUTI.NS.csv        # Stock price data
-│   └── headlines.csv        # Scraped news headlines
-├── src/
-│   ├── scraper.py          # News scraping module
-│   ├── sentiment.py        # Sentiment analysis
-│   └── visualize.py        # Visualization code
-├── notebooks/
-│   └── analysis.ipynb      # Jupyter notebook with analysis
-├── requirements.txt        # Project dependencies
-└── README.md
-```
 
 ## Future Improvements
 
